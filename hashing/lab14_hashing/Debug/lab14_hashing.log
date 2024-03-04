@@ -1,0 +1,12 @@
+﻿  hashong.cpp
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(25,2): error C2065: 'linearProbing': undeclared identifier
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(25,16): error C2146: syntax error: missing ';' before identifier 'lp'
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(25,16): error C2065: 'lp': undeclared identifier
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(26,2): error C2065: 'quadProbing': undeclared identifier
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(26,14): error C2146: syntax error: missing ';' before identifier 'qp'
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(26,14): error C2065: 'qp': undeclared identifier
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(37,2): error C2065: 'qp': undeclared identifier
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(39,2): error C2065: 'lp': undeclared identifier
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(135,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(153,16): error C2011: 'Solution': 'class' type redefinition
+C:\Users\Feb12\source\repos\lab14_hashing\lab14_hashing\hashong.cpp(130): message : see declaration of 'Solution'
